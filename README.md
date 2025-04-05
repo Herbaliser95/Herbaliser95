@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on 3d Modeling
+- 🌱 I’m currently attending Univeristy of Genova
+
 <!--
 **Herbaliser95/Herbaliser95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
